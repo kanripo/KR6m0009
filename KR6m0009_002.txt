@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:11.114412
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:30
 #+TITLE: 十二門論疏
 #+PROPERTY: CBETA_ID T42n1825
 #+PROPERTY: ID KR6m0009
@@ -15,7 +15,7 @@
 ¶
 釋吉藏撰¶
 
-3觀緣門(中本)
+* 3觀緣門(中本)
 :PROPERTIES:
 :head: 觀緣門第三
 :END:
@@ -248,7 +248,7 @@
  中之末十二門論疏卷中之末¶
 ¶
 
-4觀相門(中末)
+* 4觀相門(中末)
 :PROPERTIES:
 :head: 觀相門第四
 :END:
